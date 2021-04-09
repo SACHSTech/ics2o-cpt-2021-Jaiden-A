@@ -1,7 +1,7 @@
 '''
 -------------------------------------------------------------------------------
 Name:	main.py
-Purpose:
+Purpose: a nba draft game that allows up to five players do an nba roster draft for different years based off choice. 
 
 Author:	Adhvaryu.J
 
